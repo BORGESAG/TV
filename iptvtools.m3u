@@ -1,13 +1,57 @@
 #EXTM3U
+#EXTINF:0,SBT
+http://bitly.com:80/Sbt-hd
+#EXTINF:0,SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?CANAISGLAU
+#EXTINF:0,GLOBO
+http://s.tvmaster.net:80/estenio/1217/1603
+#EXTINF:-1,GLOBO SP
+http://br.e-tv.xyz/GLOBOSPFULLHD/video.m3u8?token=cw3bU4Gg63
+#EXTINF:0,REDE TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8?ANTONYGTV
+#EXTINF:0,REDE TV
+http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8?ANTONYGTV
+#EXTINF:0,REDE TV
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:0,TV GAZETA
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:0,BAND
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?ANTONYGTV
+#EXTINF:0,BAND
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w1204250451.m3u8?ANTONYGTV
+#EXTINF:0,RECORD NEWS ES
+http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8%09
+#EXTINF:0,TVE
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?ANTONIO
+#EXTINF:0,TV NOVA PARAIBA
+http://stmv1.euroti.com.br:1935/tv487/tv487/live.m3u8
+#EXTINF:0,SPORTV PREMIERE
+http://br.e-tv.xyz/Sportv_HD/video.m3u8?token=cw3bU4Gg63
+#EXTINF:0,TV SENADO
+http://tvmpf.mpf.mp.br:1935/event455/event455.stream/live.m3u8
+#EXTINF:0,TV FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
-#EXTINF:-1,SBT	http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTINF:-1,REDE TV	http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8?ANTONYGTV
-#EXTINF:-1,REDE TV	http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8?ANTONYGTV
-#EXTINF:-1,BAND	http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?ANTONYGTV
-#EXTINF:-1,BAND	http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w1204250451.m3u8?ANTONYGTV
-#EXTINF:-1,TVE	http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?ANTONIO
-#EXTINF:-1,HBO 2 (EN)	http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1,RAI MOVIE (IT)	http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8?ANTONYGTV
-#EXTINF:-1,HIT TV	http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8?ANTONYGTV
-#EXTINF:-1,HIT TV	http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8?ANTONYGTV
-#EXTINF:-1,HIT MUSIC	http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?ANTONYGTV
+#EXTINF:0,(MUSIC) HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8?ANTONYGTV
+#EXTINF:0,(MUSIC) HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8?ANTONYGTV
+#EXTINF:0,(MUSIC) HIT MUSIC
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?ANTONYGTV
+#EXTINF:0,(MUSIC) MTV CLIPES 1
+http://rtmp.one.by:1200
+#EXTINF:0,(MUSIC) RETRO TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0,(MUSIC) MUSIC CHOICE
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0,(MUSIC) M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,(MUSIC) XITE
+http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
+#EXTINF:0,(MUSIC) RADIO CONTACT
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+
+#EXTINF:0,HBO2 (EN,SPA)
+http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:0,RAI MOVIE (IT)
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8?ANTONYGTV
