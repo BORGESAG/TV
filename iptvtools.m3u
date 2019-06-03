@@ -1,74 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1,iptvtools_1
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTINF:-1,iptvtools_2
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8?ANTONYGTV
-#EXTINF:-1,iptvtools_3
-http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8?ANTONYGTV
-#EXTINF:-1,iptvtools_4
-http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8
-#EXTINF:-1,iptvtools_5
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1,iptvtools_6
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:-1,iptvtools_7
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
-#EXTINF:-1,iptvtools_8
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1,iptvtools_9
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?ANTONYGTV
-#EXTINF:-1,iptvtools_10
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1,iptvtools_11
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
-#EXTINF:-1,iptvtools_12
-http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
-#EXTINF:-1,iptvtools_13
-https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,iptvtools_14
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w791297938.m3u8?ANTONYGTV
-#EXTINF:-1,iptvtools_15
-http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?ANTONYGTV
-#EXTINF:-1,iptvtools_16
-http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w1204250451.m3u8?ANTONYGTV
-#EXTINF:-1,iptvtools_17
-http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
-#EXTINF:-1,iptvtools_18
-http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8?ANTONIO
-#EXTINF:-1,iptvtools_19
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?ANTONIO
-#EXTINF:-1,iptvtools_20
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
-#EXTINF:-1,iptvtools_21
-http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?INGLESNALDYNHO
-#EXTINF:-1,iptvtools_22
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8?ANTONYGTV
-#EXTINF:-1,iptvtools_23
-http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?ANTONYGTV
-#EXTINF:-1,iptvtools_24
-http://hd4.com.br:1935/tvcarioca/tvcarioca/playlist.m3u8?ANTONYGTV
-#EXTINF:-1,iptvtools_25
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8?ANTONYGTV
-#EXTINF:-1,iptvtools_26
-http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8?ANTONYGTV
-#EXTINF:-1,iptvtools_27
-http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8?ANTONYGTV
-#EXTINF:-1,iptvtools_28
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8?ANTONYGTV
-#EXTINF:-1,iptvtools_29
-http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8?ANTONYGTV
-#EXTINF:-1,iptvtools_30
-http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?ANTONYGTV
-#EXTINF:-1,iptvtools_31
-http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8?ANTONYGTV
-#EXTINF:-1,iptvtools_32
-http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8
-#EXTINF:-1,iptvtools_33
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1,iptvtools_34
-http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1,iptvtools_35
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8?ANTONYGTV
-#EXTINF:-1,iptvtools_36
-http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
+#EXTINF:-1,SBT	http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1,REDE TV	http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8?ANTONYGTV
+#EXTINF:-1,REDE TV	http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8?ANTONYGTV
+#EXTINF:-1,BAND	http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?ANTONYGTV
+#EXTINF:-1,BAND	http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w1204250451.m3u8?ANTONYGTV
+#EXTINF:-1,TVE	http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?ANTONIO
+#EXTINF:-1,HBO 2 (EN)	http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1,RAI MOVIE (IT)	http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8?ANTONYGTV
+#EXTINF:-1,HIT TV	http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8?ANTONYGTV
+#EXTINF:-1,HIT TV	http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8?ANTONYGTV
+#EXTINF:-1,HIT MUSIC	http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?ANTONYGTV
