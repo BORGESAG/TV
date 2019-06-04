@@ -2,11 +2,15 @@
 #EXTINF:0,SBT
 http://bitly.com:80/Sbt-hd
 #EXTINF:0,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?CANAISGLAU
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+#EXTINF:-1,SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 #EXTINF:0,GLOBO
 http://s.tvmaster.net:80/estenio/1217/1603
 #EXTINF:-1,GLOBO SP
 http://br.e-tv.xyz/GLOBOSPFULLHD/video.m3u8?token=cw3bU4Gg63
+#EXTINF:-1,RECORD TV
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
 #EXTINF:0,REDE TV
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8?ANTONYGTV
 #EXTINF:0,REDE TV
@@ -25,8 +29,10 @@ http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8%09
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?ANTONIO
 #EXTINF:0,TV NOVA PARAIBA
 http://stmv1.euroti.com.br:1935/tv487/tv487/live.m3u8
-#EXTINF:0,SPORTV PREMIERE
+#EXTINF:0,SPORTV 1
 http://br.e-tv.xyz/Sportv_HD/video.m3u8?token=cw3bU4Gg63
+#EXTINF:-1 tvg-logo="", REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:0,TV SENADO
 http://tvmpf.mpf.mp.br:1935/event455/event455.stream/live.m3u8
 #EXTINF:0,TV FAAP
@@ -53,5 +59,14 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 
 #EXTINF:0,HBO2 (EN,SPA)
 http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:0,HBO2 (EN,SPA)
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:0,RAI MOVIE (IT)
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8?ANTONYGTV
+#EXTINF:-1,EBS (KR)
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS 2 (KR)
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1,BOB's Esponja
+http://stmv1.euroti.com.br:1935/tv487/tv487/live.m3u8
